@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://expiorer267.github.io</id>
+    <title>Expiorer267的博客</title>
+    <updated>2023-03-27T13:33:14.033Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://expiorer267.github.io"/>
+    <link rel="self" href="https://expiorer267.github.io/atom.xml"/>
+    <subtitle>&lt;img src=&quot;https://badges.toozhao.com/badges/01GWCJJKPVAYGE4H8GYBHH5H43/orange.svg&quot; /&gt;</subtitle>
+    <logo>https://expiorer267.github.io/images/avatar.png</logo>
+    <icon>https://expiorer267.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Expiorer267的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World!]]></title>
+        <id>https://expiorer267.github.io/post/hello-world/</id>
+        <link href="https://expiorer267.github.io/post/hello-world/">
+        </link>
+        <updated>2023-03-25T10:21:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>你好，世界！<br>
+💾<br>
+<img src="https://expiorer267.github.io/post-images/1679739741970.png" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你好，世界！<br>
+💾<br>
+<img src="https://expiorer267.github.io/post-images/1679739741970.png" alt="" loading="lazy"></p>
+<!-- more -->
+<p>这是一篇测试文章<br>
+这是我的第一篇文章（<s>测试文章不算</s>）</p>
+<h1 id="markdown-测试">Markdown 测试</h1>
+<p><s>删除</s><br>
+<a href="https://cn.bing.com">连接</a><br>
+让我康康Markdown怎么用......🙂<br>
+.<br>
+.<br>
+.<br>
+2000 min later......<br>
+(阅读Markdown基本语法中......）<br>
+算了，不会用......<br>
+😦</p>
+]]></content>
+    </entry>
+</feed>
